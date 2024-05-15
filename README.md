@@ -10,7 +10,7 @@
 
 ⚡ Projects I participated in and contributed to:
 
-Dymension RollApp, Aptos, Sui, Sei, Humanode, Side protocol.
+Dymension RollApp, Avail, Aptos, Sui, Sei, Humanode, Side protocol.
 
 ... new ones will be added continuously
 
