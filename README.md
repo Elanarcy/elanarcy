@@ -30,5 +30,3 @@ Soft RAID
 
 Nodes 💦
 I utilize cloud providers such as OVH for my Nodes & projects, meticulously choosing them based on location and hardware criteria.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elanarcy)](https://github.com/elanarcy/github-readme-stats)
