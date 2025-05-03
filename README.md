@@ -1,4 +1,4 @@
-### Hi there I'Am ElanarcyNode 👋
+### Hi there I'Am ElanarcyNode  🪿
 
 https://elanarcynode.com/
 
@@ -28,5 +28,5 @@ Intel Xeon-E 2386G - 6c/12t - 3.5 GHz/4.7 GHz
 Soft RAID
 
 
-Nodes 💦
+Nodes 
 I utilize cloud providers such as OVH for my Nodes & projects, meticulously choosing them based on location and hardware criteria.
