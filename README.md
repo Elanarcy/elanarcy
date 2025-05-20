@@ -86,7 +86,7 @@ I love connecting with the Web3 community! Reach out to collaborate, share ideas
 Join my Telegram channel for node setup guides, testnet updates, and community discussions!
 
 <p align="center">
-  ![Hacker GIF](https://gif-avatars.com/img/200x200/hacker.gif)
+  <img src="https://gif-avatars.com/img/200x200/hacker.gif" alt="Hacker GIF" width="200" height="200" />
 </p>
 <p align="center">
   <a href="https://t.me/cssurabaya"><img src="https://img.shields.io/badge/Telegram-Join%20Channel-blue?style=social&logo=telegram" alt="Telegram"/></a>
