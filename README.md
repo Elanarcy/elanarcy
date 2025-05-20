@@ -49,7 +49,7 @@ I’m proud to have participated in and contributed to a variety of exciting blo
 
 <p align="center">
   <img src="https://img.shields.io/badge/Projects-10%2B-brightgreen?style=flat-square" alt="Projects"/>
-  <gif src="https://gif-avatars.com/img/200x200/hacker.gif"/>
+
   <img src="https://img.shields.io/badge/Status-Active-blue?style=flat-square" alt="Status"/>
 </p>
 
@@ -80,11 +80,14 @@ I love connecting with the Web3 community! Reach out to collaborate, share ideas
 
 - 🌐 **Website**: [elanarcynode.com](https://elanarcynode.com)
 - 📨 **Telegram**: [t.me/cssurabaya](https://t.me/cssurabaya)
-- 🐦 **Twitter**: [@elanarcynode](https://twitter.com/elanarcynode)
+- 🐦 **Twitter**: [@elanarcy](https://twitter.com/elanarcy)
 - 📧 **Email**: hello@elanarcynode.com
 
 Join my Telegram channel for node setup guides, testnet updates, and community discussions!
 
+<p align="center">
+  ![Hacker GIF](https://gif-avatars.com/img/200x200/hacker.gif)
+</p>
 <p align="center">
   <a href="https://t.me/cssurabaya"><img src="https://img.shields.io/badge/Telegram-Join%20Channel-blue?style=social&logo=telegram" alt="Telegram"/></a>
   <a href="https://twitter.com/elanarcynode"><img src="https://img.shields.io/twitter/follow/elanarcynode?style=social" alt="Twitter"/></a>
