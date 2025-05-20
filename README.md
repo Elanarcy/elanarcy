@@ -49,7 +49,7 @@ I’m proud to have participated in and contributed to a variety of exciting blo
 
 <p align="center">
   <img src="https://img.shields.io/badge/Projects-10%2B-brightgreen?style=flat-square" alt="Projects"/>
-  <img src="https://,},
+  <gif src="https://gif-avatars.com/img/200x200/hacker.gif"/>
   <img src="https://img.shields.io/badge/Status-Active-blue?style=flat-square" alt="Status"/>
 </p>
 
