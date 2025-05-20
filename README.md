@@ -2,10 +2,10 @@
   <img src="https://w0.peakpx.com/wallpaper/835/781/HD-wallpaper-hajime-no-ippo-boxer-no-hajime-ippo.jpg" alt="ElanarcyNode Banner" width="600"/>
 </p>
 
-<h1 align="center">👋 Hey, I'm ElanarcyNode 🪿</h1>
+<h1 align="center">👋 Hey, I'm Elanarcy 🪿</h1>
 
 <p align="center">
-  <em>Node Runner | Testnet Enthusiast | Blockchain Explorer</em><br/>
+  <em>Node Runner | Web3 Research | Contributor</em><br/>
   <a href="https://elanarcynode.com">🌐 elanarcynode.com</a> • 
   <a href="https://t.me/cssurabaya">📨 Telegram</a> • 
   <a href="https://twitter.com/elanarcynode">🐦 Twitter</a>
@@ -21,7 +21,7 @@
 
 ### 🚀 About Me
 
-Hey there! I'm **ElanarcyNode**, a passionate node runner diving deep into the world of blockchain testnets and decentralized infrastructure. My mission is to build, test, and contribute to the future of Web3 with robust nodes and innovative projects.
+Hey there! I'm **Elanarcy**, a passionate node runner diving deep into the world of blockchain testnets and decentralized infrastructure. My mission is to build, test, and contribute to the future of Web3 with robust nodes and innovative projects.
 
 - 🔭 **Currently working on**: Running nodes and exploring testnets for cutting-edge blockchain protocols.
 - 🌱 **Learning**: Mastering Docker from A to Z to streamline node deployments.
@@ -43,6 +43,7 @@ I’m proud to have participated in and contributed to a variety of exciting blo
 - 🧬 **Humanode**: Biometric-based blockchain for human-centric networks.
 - 🛡️ **Side Protocol**: Decentralized cross-chain solutions.
 - 🇨🇭 **Swisstronik**: Privacy-focused blockchain infrastructure.
+- 🛡️ **AztecNetwork**: privacy-focused Layer 2 rollup on Ethereum. It aims to provide a way for users to interact with blockchain-powered applications.
 
 *...and more to come as I continue to explore and contribute!*
 
