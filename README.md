@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://x.com/elanarcy/photo" alt="ElanarcyNode Banner" width="600"/>
+  <img src="https://w0.peakpx.com/wallpaper/835/781/HD-wallpaper-hajime-no-ippo-boxer-no-hajime-ippo.jpg" alt="ElanarcyNode Banner" width="600"/>
 </p>
 
 <h1 align="center">👋 Hey, I'm ElanarcyNode 🪿</h1>
