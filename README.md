@@ -8,7 +8,7 @@
   <em>Node Runner | Web3 Research | Contributor</em><br/>
   <a href="https://elanarcynode.com">🌐 elanarcynode.com</a> • 
   <a href="https://t.me/cssurabaya">📨 Telegram</a> • 
-  <a href="https://twitter.com/elanarcynode">🐦 Twitter</a>
+  <a href="https://twitter.com/elanarcy">🐦 Twitter</a>
 </p>
 
 <p align="center">
