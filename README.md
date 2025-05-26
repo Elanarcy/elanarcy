@@ -90,7 +90,7 @@ Join my Telegram channel for node setup guides, testnet updates, and community d
 </p>
 <p align="center">
   <a href="https://t.me/cssurabaya"><img src="https://img.shields.io/badge/Telegram-Join%20Channel-blue?style=social&logo=telegram" alt="Telegram"/></a>
-  <a href="https://twitter.com/elanarcynode"><img src="https://img.shields.io/twitter/follow/elanarcynode?style=social" alt="Twitter"/></a>
+  <a href="https://twitter.com/elanarcy"><img src="https://img.shields.io/twitter/follow/elanarcy?style=social" alt="Twitter"/></a>
 </p>
 
 ---
