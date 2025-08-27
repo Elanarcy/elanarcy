@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hey, I'm Elanarcy 🪿</h1>
 
 <p align="center">
-  <em>Node Runner | Web3 Research | Contributor</em><br/>
+  <em>Developer | Node Runner | Web3 Research | Contributor</em><br/>
   <a href="https://elanarcynode.com">🌐 elanarcynode.com</a> • 
   <a href="https://t.me/cssurabaya">📨 Telegram</a> • 
   <a href="https://twitter.com/elanarcy">🐦 Twitter</a>
